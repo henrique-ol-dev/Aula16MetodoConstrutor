@@ -1,0 +1,11 @@
+C:\Users\senai\Desktop\Aula16MetodoConstrutor\bin\Debug\netcoreapp3.0\Aula16MetodoConstrutor.exe
+C:\Users\senai\Desktop\Aula16MetodoConstrutor\bin\Debug\netcoreapp3.0\Aula16MetodoConstrutor.deps.json
+C:\Users\senai\Desktop\Aula16MetodoConstrutor\bin\Debug\netcoreapp3.0\Aula16MetodoConstrutor.runtimeconfig.json
+C:\Users\senai\Desktop\Aula16MetodoConstrutor\bin\Debug\netcoreapp3.0\Aula16MetodoConstrutor.runtimeconfig.dev.json
+C:\Users\senai\Desktop\Aula16MetodoConstrutor\bin\Debug\netcoreapp3.0\Aula16MetodoConstrutor.dll
+C:\Users\senai\Desktop\Aula16MetodoConstrutor\bin\Debug\netcoreapp3.0\Aula16MetodoConstrutor.pdb
+C:\Users\senai\Desktop\Aula16MetodoConstrutor\obj\Debug\netcoreapp3.0\Aula16MetodoConstrutor.csprojAssemblyReference.cache
+C:\Users\senai\Desktop\Aula16MetodoConstrutor\obj\Debug\netcoreapp3.0\Aula16MetodoConstrutor.AssemblyInfoInputs.cache
+C:\Users\senai\Desktop\Aula16MetodoConstrutor\obj\Debug\netcoreapp3.0\Aula16MetodoConstrutor.AssemblyInfo.cs
+C:\Users\senai\Desktop\Aula16MetodoConstrutor\obj\Debug\netcoreapp3.0\Aula16MetodoConstrutor.dll
+C:\Users\senai\Desktop\Aula16MetodoConstrutor\obj\Debug\netcoreapp3.0\Aula16MetodoConstrutor.pdb
